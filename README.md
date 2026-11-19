@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/LYChee66/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/LYChee66/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-One image summing up the world's news of Thursday 19 November 2026: the first-ever Trump–Xi–Putin summit in Shenzhen, GTA VI launching worldwide, oil tankers burning in the Strait of Hormuz, the World Court ruling on Myanmar, and a Van Gogh selling for $190.4M — plus the day's other headlines in a footer strip.
+One image summing up the world's news of Thursday 19 November 2026: the first-ever Trump–Xi–Putin summit in Shenzhen, GTA VI launching worldwide, oil tankers burning in the Strait of Hormuz, the World Court ruling on Myanmar, and a Van Gogh selling for $190.4M — plus a weather strip (Cyclone Akvan nearing India, Category 5 Cyclone Xavier near the Cook Islands, floods and snow in France) and the day's other headlines.
 
 ## Run it
 
